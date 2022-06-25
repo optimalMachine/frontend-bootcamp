@@ -1,0 +1,22 @@
+{
+  "name": "frontend-bootcamp",
+  "version": "1.0.0",
+  "description": "A full stack project.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/optimalMachine/frontend-bootcamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/optimalMachine/frontend-bootcamp/issues"
+  },
+  "homepage": "https://github.com/optimalMachine/frontend-bootcamp#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
