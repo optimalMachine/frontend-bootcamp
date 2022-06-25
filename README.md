@@ -1,5 +1,5 @@
-# A front end bootcamp web page.
+# A frontend bootcamp web page.
 
-A full stack project.
+A full stack project. A responsive web page using Bootstrap 5.
 
 Created by Jiuk Choi
